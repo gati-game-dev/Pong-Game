@@ -2,6 +2,10 @@
 
 A 2D Pong-style game built with Unity and C# as a personal game development project.
 
+## Gameplay
+
+![Pong Gameplay](Screenshots/Pong-GamePlay.png)
+
 ## Features
 
 * Player-controlled paddle movement
