@@ -2,6 +2,12 @@
 
 A 2D Pong-style game built with Unity and C# as a personal game development project.
 
+## Play the Game
+
+Download the Windows build:
+
+[Download Pong v1.0.0](https://github.com/gati-game-dev/Pong-Game/releases/latest)
+
 ## Gameplay
 
 ![Pong Gameplay](Screenshots/Pong-GamePlay.png)
