@@ -10,7 +10,9 @@ Download the Windows build:
 
 ## Gameplay
 
-![Pong Gameplay](Screenshots/Pong-GamePlay.png)
+<p align="center">
+  <img src="Screenshots/gameplay.png" alt="Pong Gameplay" width="750">
+</p>
 
 ## Features
 
